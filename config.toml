@@ -1,6 +1,6 @@
-baseurl = "Your site URL"
+baseurl = "richardankers.co.uk"
 languageCode = "en-us"
-Title = "Your site title"
+Title = "Blog"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
 
@@ -37,7 +37,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   contact = "Your contact link (ex. mailto:foo@example.com)"
   bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
+  subtitle = "Personal blog by Richard Ankers"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
