@@ -20,7 +20,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   author = "Richard Ankers"
   authorwebsite = "example.com"
   avatar = "https://s.gravatar.com/avatar/e84ba36b2e89c5b5736b3e1153680dc8?s=80"
-  contact = "mailto:richardankers@gmail.com)"
+  contact = "mailto:richardankers@gmail.com"
   # bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Personal blog by Richard Ankers"
