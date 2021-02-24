@@ -1,4 +1,5 @@
-baseurl = "richardankers.co.uk"
+baseurl = "/"
+theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Blog"
 # Copyright notice. This is displayer in the footer.
