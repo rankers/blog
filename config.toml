@@ -7,6 +7,7 @@ copyright = "&copy; Copyright notice"
 
 # Google Analytics API key.
 googleAnalytics = "Your Google Analytics tracking id"
+enableEmoji = true
 
 [params]
   paginate = 10
