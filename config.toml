@@ -2,8 +2,7 @@ baseurl = "/"
 theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Blog"
-# Google Analytics API key.
-googleAnalytics = "Your Google Analytics tracking id"
+googleAnalytics = "G-R03VYQVNB0"
 enableEmoji = true
 
 [params]
