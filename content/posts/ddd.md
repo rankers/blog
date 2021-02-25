@@ -7,11 +7,11 @@ draft: true
 
 Capture:
 
-* Emphasis on refactor
+* Emphasis on refactor -> tdd
 * Emphasis on communication
 * Moving business rule to domain object, overbooking policy example. Page 19
 * Maps are models, models are selectively simplified, consciously structured form of knowledge
-* How DD fits with event driven archs 
+* How DDD fits with event driven archs
 * https://github.com/heynickc/awesome-ddd
 * ooo vs funcyional
 * Layers only depend one way. Relatng layers - can you have a evolitionary arch continual test to show depedency directino

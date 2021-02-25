@@ -1,0 +1,15 @@
+</main>
+{{ partial "menu.html" . }}
+<footer class="l-footer">
+  {{ partial "link.html" . }}
+
+  <p class="p-copyright">
+    {{ with .Site.Copyright | safeHTML }}
+      {{ . }}
+    {{ end }}
+  </p>
+</footer>
+
+{{- partial "footer_custom.html" . }}
+</body>
+</html>
