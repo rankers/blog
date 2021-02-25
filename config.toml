@@ -2,7 +2,6 @@ baseurl = "/"
 theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Blog"
-googleAnalytics = "G-R03VYQVNB0"
 enableEmoji = true
 
 [params]
