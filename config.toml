@@ -2,9 +2,6 @@ baseurl = "/"
 theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Blog"
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
-
 # Google Analytics API key.
 googleAnalytics = "Your Google Analytics tracking id"
 enableEmoji = true
