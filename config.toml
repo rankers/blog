@@ -23,7 +23,7 @@ enableEmoji = true
   subtitle = "Personal blog by Richard Ankers"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  favicon = "/images/headshot-favicon.jpeg"
 
 [[menu.main]]
     name = "Blog"
@@ -35,10 +35,6 @@ enableEmoji = true
     url = "/about"
     weight = 2
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 3
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
